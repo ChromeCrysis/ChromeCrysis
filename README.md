@@ -49,9 +49,13 @@ Here are some ideas to get you started:
 
 ### Experiência profissional
 
+#### Desenvolvedor Backend Java
+- Empresa: Sensedia 
+- Período: Junho 2022- Junho 2023
+
 #### Analista de Segurança da Informação Jr.
 - Empresa: Topaz Software
-- Período: Julho 2021-Atualmente
+- Período: Julho 2021- Junho 2022
 
 #### Analista de Suporte Técnico Jr.
 - Empresa: Asktech
